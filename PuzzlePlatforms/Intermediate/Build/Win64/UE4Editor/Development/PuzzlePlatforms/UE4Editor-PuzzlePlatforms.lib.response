@@ -6,13 +6,13 @@
 /NAME:"UE4Editor-PuzzlePlatforms.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\Users\mattt\Documents\Unreal Projects\PuzzlePlatforms\Intermediate\Build\Win64\PuzzlePlatformsEditor\Development\Engine\SharedPCH.Engine.h.obj"
-"C:\Users\mattt\Documents\Unreal Projects\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\PuzzlePlatforms.cpp.obj"
-"C:\Users\mattt\Documents\Unreal Projects\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\PuzzlePlatformsCharacter.cpp.obj"
-"C:\Users\mattt\Documents\Unreal Projects\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\PuzzlePlatformsGameMode.cpp.obj"
-"C:\Users\mattt\Documents\Unreal Projects\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\PuzzlePlatforms.init.gen.cpp.obj"
-"C:\Users\mattt\Documents\Unreal Projects\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\PuzzlePlatformsCharacter.gen.cpp.obj"
-"C:\Users\mattt\Documents\Unreal Projects\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\PuzzlePlatformsGameMode.gen.cpp.obj"
-"C:\Users\mattt\Documents\Unreal Projects\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\Default.rc2.res"
-/OUT:"C:\Users\mattt\Documents\Unreal Projects\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\UE4Editor-PuzzlePlatforms.lib"
+"C:\Work\SummerCamp\UnrealPuzzle\PuzzlePlatforms\Intermediate\Build\Win64\PuzzlePlatformsEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Work\SummerCamp\UnrealPuzzle\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\PuzzlePlatforms.cpp.obj"
+"C:\Work\SummerCamp\UnrealPuzzle\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\PuzzlePlatformsCharacter.cpp.obj"
+"C:\Work\SummerCamp\UnrealPuzzle\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\PuzzlePlatformsGameMode.cpp.obj"
+"C:\Work\SummerCamp\UnrealPuzzle\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\PuzzlePlatforms.init.gen.cpp.obj"
+"C:\Work\SummerCamp\UnrealPuzzle\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\PuzzlePlatformsCharacter.gen.cpp.obj"
+"C:\Work\SummerCamp\UnrealPuzzle\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\PuzzlePlatformsGameMode.gen.cpp.obj"
+"C:\Work\SummerCamp\UnrealPuzzle\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\Default.rc2.res"
+/OUT:"C:\Work\SummerCamp\UnrealPuzzle\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\UE4Editor-PuzzlePlatforms.lib"
 /INCLUDE:IMPLEMENT_MODULE_PuzzlePlatforms

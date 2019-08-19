@@ -193,11 +193,11 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
-/I "C:\Users\mattt\Documents\Unreal Projects\PuzzlePlatforms\Intermediate\Build\Win64\PuzzlePlatformsEditor\Development\Engine"
-/Yc"C:\Users\mattt\Documents\Unreal Projects\PuzzlePlatforms\Intermediate\Build\Win64\PuzzlePlatformsEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"C:\Users\mattt\Documents\Unreal Projects\PuzzlePlatforms\Intermediate\Build\Win64\PuzzlePlatformsEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"C:\Users\mattt\Documents\Unreal Projects\PuzzlePlatforms\Intermediate\Build\Win64\PuzzlePlatformsEditor\Development\Engine\SharedPCH.Engine.cpp"
-/Fo"C:\Users\mattt\Documents\Unreal Projects\PuzzlePlatforms\Intermediate\Build\Win64\PuzzlePlatformsEditor\Development\Engine\SharedPCH.Engine.h.obj"
+/I C:\Work\SummerCamp\UnrealPuzzle\PuzzlePlatforms\Intermediate\Build\Win64\PuzzlePlatformsEditor\Development\Engine
+/Yc"C:\Work\SummerCamp\UnrealPuzzle\PuzzlePlatforms\Intermediate\Build\Win64\PuzzlePlatformsEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"C:\Work\SummerCamp\UnrealPuzzle\PuzzlePlatforms\Intermediate\Build\Win64\PuzzlePlatformsEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"C:\Work\SummerCamp\UnrealPuzzle\PuzzlePlatforms\Intermediate\Build\Win64\PuzzlePlatformsEditor\Development\Engine\SharedPCH.Engine.cpp"
+/Fo"C:\Work\SummerCamp\UnrealPuzzle\PuzzlePlatforms\Intermediate\Build\Win64\PuzzlePlatformsEditor\Development\Engine\SharedPCH.Engine.h.obj"
 /TP
 /GR-
 /W4

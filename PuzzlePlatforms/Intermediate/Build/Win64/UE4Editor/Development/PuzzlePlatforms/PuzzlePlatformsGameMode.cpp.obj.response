@@ -28,9 +28,9 @@
 /wd4838
 /we4668
 /I .
-/I "C:\Users\mattt\Documents\Unreal Projects\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Inc\PuzzlePlatforms"
-/I "C:\Users\mattt\Documents\Unreal Projects\PuzzlePlatforms\Source"
-/I "C:\Users\mattt\Documents\Unreal Projects\PuzzlePlatforms\Source\PuzzlePlatforms"
+/I C:\Work\SummerCamp\UnrealPuzzle\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Inc\PuzzlePlatforms
+/I C:\Work\SummerCamp\UnrealPuzzle\PuzzlePlatforms\Source
+/I C:\Work\SummerCamp\UnrealPuzzle\PuzzlePlatforms\Source\PuzzlePlatforms
 /I Runtime
 /I Runtime\Core\Public
 /I Runtime\Core
@@ -437,12 +437,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
-/FI"C:\Users\mattt\Documents\Unreal Projects\PuzzlePlatforms\Intermediate\Build\Win64\PuzzlePlatformsEditor\Development\Engine\SharedPCH.Engine.h"
-/Yu"C:\Users\mattt\Documents\Unreal Projects\PuzzlePlatforms\Intermediate\Build\Win64\PuzzlePlatformsEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"C:\Users\mattt\Documents\Unreal Projects\PuzzlePlatforms\Intermediate\Build\Win64\PuzzlePlatformsEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"C:\Users\mattt\Documents\Unreal Projects\PuzzlePlatforms\Source\PuzzlePlatforms\PuzzlePlatformsGameMode.cpp"
-/FI"C:\Users\mattt\Documents\Unreal Projects\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\Definitions.PuzzlePlatforms.h"
-/Fo"C:\Users\mattt\Documents\Unreal Projects\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\PuzzlePlatformsGameMode.cpp.obj"
+/FI"C:\Work\SummerCamp\UnrealPuzzle\PuzzlePlatforms\Intermediate\Build\Win64\PuzzlePlatformsEditor\Development\Engine\SharedPCH.Engine.h"
+/Yu"C:\Work\SummerCamp\UnrealPuzzle\PuzzlePlatforms\Intermediate\Build\Win64\PuzzlePlatformsEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"C:\Work\SummerCamp\UnrealPuzzle\PuzzlePlatforms\Intermediate\Build\Win64\PuzzlePlatformsEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"C:\Work\SummerCamp\UnrealPuzzle\PuzzlePlatforms\Source\PuzzlePlatforms\PuzzlePlatformsGameMode.cpp"
+/FI"C:\Work\SummerCamp\UnrealPuzzle\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\Definitions.PuzzlePlatforms.h"
+/Fo"C:\Work\SummerCamp\UnrealPuzzle\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\PuzzlePlatformsGameMode.cpp.obj"
 /TP
 /GR-
 /W4
