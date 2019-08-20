@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\PuzzlePlatforms.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{5B83733E-0C13-4D41-AD0F-518E51E2E48C}</UniqueIdentifier>
+      <UniqueIdentifier>{3B8C1D4A-A070-4DD8-8638-0C0EBF2EED7F}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\PuzzlePlatforms.Target.cs">
       <Filter>Source</Filter>
@@ -11,8 +11,9 @@
     <None Include="..\..\Source\PuzzlePlatformsEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.gitignore" />
     <Filter Include="Config">
-      <UniqueIdentifier>{F667B2E3-BC43-41DC-B9B1-CBD20B1A5578}</UniqueIdentifier>
+      <UniqueIdentifier>{33E76DDF-F73C-4CE6-A5A3-1E384E0BB5B5}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,8 +31,14 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\PuzzlePlatforms">
-      <UniqueIdentifier>{57AA0644-E249-4BCB-932E-8705A1183772}</UniqueIdentifier>
+      <UniqueIdentifier>{87BE7C30-CDE9-4876-ABB7-4BC173C28E58}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\PuzzlePlatforms\MovingCube.cpp">
+      <Filter>Source\PuzzlePlatforms</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PuzzlePlatforms\MovingCube.h">
+      <Filter>Source\PuzzlePlatforms</Filter>
+    </ClInclude>
     <None Include="..\..\Source\PuzzlePlatforms\PuzzlePlatforms.Build.cs">
       <Filter>Source\PuzzlePlatforms</Filter>
     </None>

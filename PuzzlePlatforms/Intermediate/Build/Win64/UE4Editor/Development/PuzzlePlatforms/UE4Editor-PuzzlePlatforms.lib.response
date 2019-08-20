@@ -7,9 +7,11 @@
 /IGNORE:4221
 /NODEFAULTLIB
 "C:\Work\SummerCamp\UnrealPuzzle\PuzzlePlatforms\Intermediate\Build\Win64\PuzzlePlatformsEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Work\SummerCamp\UnrealPuzzle\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\MovingCube.cpp.obj"
 "C:\Work\SummerCamp\UnrealPuzzle\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\PuzzlePlatforms.cpp.obj"
 "C:\Work\SummerCamp\UnrealPuzzle\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\PuzzlePlatformsCharacter.cpp.obj"
 "C:\Work\SummerCamp\UnrealPuzzle\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\PuzzlePlatformsGameMode.cpp.obj"
+"C:\Work\SummerCamp\UnrealPuzzle\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\MovingCube.gen.cpp.obj"
 "C:\Work\SummerCamp\UnrealPuzzle\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\PuzzlePlatforms.init.gen.cpp.obj"
 "C:\Work\SummerCamp\UnrealPuzzle\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\PuzzlePlatformsCharacter.gen.cpp.obj"
 "C:\Work\SummerCamp\UnrealPuzzle\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\PuzzlePlatformsGameMode.gen.cpp.obj"
